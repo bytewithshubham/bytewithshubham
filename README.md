@@ -1,4 +1,20 @@
-## Hi there 👋
+Hi, I'm Shubham 👋  
+
+🎓 B.Sc Computer Science Student  
+💻 Aspiring Software Developer  
+
+## Skills
+- Python  
+- C++  
+- SQL  
+- HTML  
+
+## Currently Learning
+- Data Structures  
+- Software Development  
+
+## Goal
+To become a skilled software developer and build real-world projects.
 
 <!--
 **bytewithshubham/bytewithshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
